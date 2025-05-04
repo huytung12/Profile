@@ -1,5 +1,4 @@
-### Hi, I'm TRAN HUY TUNG <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [TRAN HUY TUNG][website] = Software Engineer + Youtuber 🌻  
-
+### Hi, I'm TRAN HUY TUNG <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [TRAN HUY TUNG][website]
 
 - 🔭 Passion in something ... (secret😊)
 - 💪 2021 Goals: Learning many things in JAVA & C#
@@ -23,5 +22,5 @@
 
 ---
 
-### 📫 Contact me via:
+### 📫 Contact me:
 - EMAIL: tranhuytung1607@gmail.com
